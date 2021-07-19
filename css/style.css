@@ -1,0 +1,66 @@
+/* slider style  */
+.bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.mt-5 {
+    margin-top: 7rem!important;
+}
+.carousel-indicators [data-bs-target] {
+    background-color: #ff136f;
+}
+.price{
+    color: #ff136f;
+}
+.buy-now {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    opacity: 1;
+    transition: 0.3s;
+}
+.buy-now:hover{
+    opacity: 0.6
+}
+/* end slider style  */
+/* start categories style  */
+.cat-1{
+    background-color: #ffa500;
+}
+.cat-2{
+    background-color: #da70d6;
+}
+.cat-3{
+    background-color: #000ff0;
+}
+.cat-1, .cat-2, .cat-3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+#cat img{
+    width: 100px;
+}
+/* end categories style  */
+/* start product style */
+#btn{
+    background-color: #fff;
+    border-top: none;
+}
+.fa-arrow-right{
+    font-size: 12px;
+}
+/* end style product */
+/* start newsletter */
+.news{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.newsletter{
+    text-transform: uppercase;
+}
+.newsletter h6{
+    color: #808080;
+}

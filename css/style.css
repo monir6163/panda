@@ -3,7 +3,7 @@
     background-color: #fceae8;
     border-radius: 10px;
 }
-.mt-5 {
+.carousel {
     margin-top: 7rem!important;
 }
 .carousel-indicators [data-bs-target] {

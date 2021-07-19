@@ -21,6 +21,7 @@
     cursor: pointer;
     opacity: 1;
     transition: 0.3s;
+    margin-bottom: 10px;
 }
 .buy-now:hover{
     opacity: 0.6
